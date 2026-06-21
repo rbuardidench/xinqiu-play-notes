@@ -1,2 +1,14 @@
 # xinqiu-play-notes
-HTML page archive and documentation
+
+HTML 页面发布记录
+
+本仓库用于保存页面发布产物，内容以实际文件为准。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 查看方式
+
+可以通过仓库文件列表或 GitHub Pages 查看已发布页面。
